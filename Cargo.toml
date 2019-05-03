@@ -1,0 +1,10 @@
+[package]
+name = "errors"
+version = "0.1.0"
+authors = ["Lachezar Lechev <lachezar@adex.network>"]
+edition = "2018"
+
+[dependencies]
+# Server
+hyper = "0.12"
+http = "0.1.16"
